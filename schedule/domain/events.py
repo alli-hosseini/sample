@@ -8,6 +8,12 @@ class ScheduleCreated(DomainEvent):
 
 
 @dataclass
+class CategoryAdded(DomainEvent):
+    vendor_id: str
+    url: str
+
+
+@dataclass
 class CategoryAppointed(DomainEvent):
     vendor_id: str
     url: str
