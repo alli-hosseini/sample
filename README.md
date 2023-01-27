@@ -1,6 +1,6 @@
 # In This model we tried to implement a Hexagunal architecture
 
-At first I need to mention that this is a part of malltinas project and I was wroter, so I removed some logics and configs.
+At first I need to mention that this is a part of company's project and I was wroter, so I removed some logics and configs.
 
 We had :
   - Three level of tests(unit, integration, e2e)
