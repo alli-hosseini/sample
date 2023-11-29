@@ -1,4 +1,4 @@
-# In This model we tried to implement a Hexagunal architecture
+# In This model we tried to implement a Hexagunal architecture with Python
 
 At first I need to mention that this is a part of company's project and I was wroter, so I removed some logics and configs.
 
