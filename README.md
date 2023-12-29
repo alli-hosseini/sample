@@ -1,10 +1,8 @@
-# In This model we tried to implement Hexagunal architecture with Python
-
-At first I need to mention that this is a part of company's project and I was wroter, so I removed some logics and configs.
+# In This Model We Tried To Implement Hexagonal Architecture With Python
 
 We had :
   - Three level of tests(unit, integration, e2e).
-  - A bus which decide to pass a command/query/event to its handler(or listener) based on config.
+  - A bus that decides to pass a command/query/event to its handler(or listener) based on config.
   - Each event binds to n listeners.
-  - Each command binds to its command-handler.
-  - Each query binds to its query-handler(listener).
+  - Each command binds to its command handler.
+  - Each query binds to its query handler (listener).
